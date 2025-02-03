@@ -4,7 +4,77 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dashboard</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Basic Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      height: 100vh;
+    }
+    
+    /* Sidebar */
+    .sidebar {
+      width: 250px;
+      background-color: #1b1111;
+      color: white;
+      padding-top: 20px;
+    }
+    
+    .sidebar ul {
+      list-style-type: none;
+    }
+    
+    .sidebar li {
+      padding: 10px 20px;
+      border-bottom: 1px solid #c05d5d;
+    }
+    
+    .sidebar li a {
+      text-decoration: none;
+      color: white;
+      display: block;
+    }
+    
+    .sidebar li:hover {
+      background-color: #c05d5d;
+    }
+    
+    /* Submenu */
+    .submenu {
+      display: none;
+      background-color: #c05d5d;
+      padding-left: 20px;
+    }
+    
+    .sidebar li.active > .submenu {
+      display: block;
+    }
+    
+    .submenu li {
+      border-bottom: none;
+    }
+    
+    /* Main Content */
+    .content {
+      flex-grow: 1;
+      padding: 20px;
+    }
+    
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    
+    .section {
+      margin-bottom: 30px;
+    }
+  </style>
 </head>
 <body>
   <!-- Sidebar -->
@@ -64,4 +134,3 @@
   </script>
 </body>
 </html>
-
