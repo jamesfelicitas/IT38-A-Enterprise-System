@@ -50,7 +50,7 @@ d. Comparative analysis: create a table for both case study 1 & 2.
      - Unrealistic implementation timeline.
      -Deploying multiple complex systems simultaneously without a testing or collaboration among departments.
  
-     d.3. Key Takeaways & Lessons Learned include the following questions:
+     d.3. Key Takeaways & Lessons Learned include the following questions: 
             1. What did the successful case do right?
               - The successful case took the time to understand the business and focus on making the new system fit the business perfectly.
             2. What went wrong in the failed case?
@@ -60,5 +60,14 @@ d. Comparative analysis: create a table for both case study 1 & 2.
 
 e. Insights & recommendations
      e.1. Best Practices for Successful Enterprise System Implementation
+          - Define Clear Objectives: Align ERP implementation goals with overall business strategy to ensure everyone understands the purpose and benefits.
+          - Realistic Timelines: Set achievable milestones without rushing, allowing flexibility for adjustments as needed.
+          - Thorough Planning: Conduct a comprehensive assessment of current processes to identify areas for improvement.
+    
      e.2. Strategies to Avoid Failure
+          - Avoid Unrealistic Expectations: Do not attempt to deploy multiple complex systems simultaneously without a proper testing or collaboration among departments.
+          - Ensure Technical Readiness: Assess IT infrastructure before implementation to prevent disruptions due to technical limitations.
+
      e.3. Future Research Opportunities
+     -  Study specific challenges faced by small businesses like Ronin Gallery during ERP implementations compared to larger corporations like Hershey's.
+     -  Examine the role of change management strategies in successful ERP implementations across various business sizes.
