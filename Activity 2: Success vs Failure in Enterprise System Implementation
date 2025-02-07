@@ -3,20 +3,35 @@ a. Research title: "Comparative Analysis of Successful and Failed Enterprise Sys
 b. Case Study 1: Successful Enterprise System Implementation
      b.1. company overview (Why the enterprise system was implemented)
      - Ronin Gallery, a gallery with the largest collection of Japanese woodblock prints in the U.S., managed inventory and consignments on paper and used QuickBooks for accounting. 
-      They have a single system to manage their entire business, including their e-commerce site
+      They have a single system to manage their entire business, including their e-commerce site. The reason why the system enterprise was implemented is because they wanted to simplify their business 
+     by using one system for everything, like managing inventory and finances, instead of many separate systems.
+
      b.2. implementation process
      - Ronin Gallery implemented NetSuite ERP, NetSuite Inventory Management, NetSuite CRM, and NetSuite SuiteCommerce Advanced. 
       The owner appreciated that the NetSuite implementation consultants took the time to understand the business and have a system to its exact needs and were available to provide guidance and assistance at each step in the process
+    
      b.3. Key success factors
       - The NetSuite implementation team was incredible and took the time to understand the business and  the system to its exact needs. Consultants were available to provide guidance and assistance at each step
+    
      b.4. outcomes & impact
       - After implementing NetSuite ERP, NetSuite Inventory Management, NetSuite CRM, and NetSuite SuiteCommerce Advanced, the gallery improved business management
 
 c. case study 2: Failed Enterprise System Implementation
      c.1. company overview (Reason for implementing the enterprise system)
+     - The Hershey Company is a prominent confectionery company known for its iconic snack brands, with approximately 17,000 employees and over $8 billion in annual revenues
+       The reason why they implement the enterprise system is to improve its order processing capabilities and overall supply chain efficiency by implementing a new ERP system and also the
+       company aimed to enhance customer service and competitiveness 
+    
      c.2. implementation process & challenges
+     -In 1999, Hershey aimed to replace its legacy IT systems with an integrated ERP environment consisting of SAP R/3 ERP software, supply chain management (SCM) software, and customer relationship management (CRM) software. 
+     They attempted to deploy all three technologies simultaneously within 30 months, shorter than the recommended 48 months. This led to arguments between departments, failed system tests, mistakes in data transfer, and poor training.
+   
      c.3. Key failure factors
+     - Hershey's key failure factors included an unrealistic implementation timeframe, deploying multiple complex systems simultaneously, a lack of cross-departmental collaboration, and inadequate testing and training
+     
      c.4. outcomes & consequences
+     - Hershey failed to fulfill an estimated $100 million worth of orders despite having the items in inventory1. Hershey's stock plummeted by 8%, and its quarterly profits dropped by 19%
+
 d. Comparative analysis: create a table for both case study 1 & 2.
      d.1. Similarities & Differences
      d.2. Critical Success vs. Failure Factors
