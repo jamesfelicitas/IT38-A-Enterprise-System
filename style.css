@@ -46,3 +46,27 @@ nav a:hover {
 .sidebar a:hover {
     background: #ddd;
 }
+
+.main {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.last-chat input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.last-chat ul {
+    list-style: none;
+    padding: 0;
+}
+
+.last-chat li {
+    background: #ddd;
+    margin-bottom: 5px;
+    padding: 8px;
+    border-radius: 5px;
+}

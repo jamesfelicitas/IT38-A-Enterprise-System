@@ -33,5 +33,19 @@
     <a href="#">Settings</a>
     <a href="#">Log out</a>
 </div>
+
+<div class="main">
+    <h3>Good Morning!</h3>
+    <div class="last-chat">
+        <h4>Last Chat</h4>
+        <input type="text" placeholder="Search Doctor...">
+        <ul>
+            <li>Doctor 1</li>
+            <li>Doctor 2</li>
+            <li>Doctor 3</li>
+        </ul>
+    </div>
+</div>
+
 </body>
 </html>
