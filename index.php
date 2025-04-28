@@ -45,6 +45,14 @@
             <li>Doctor 3</li>
         </ul>
     </div>
+    <div class="patient-history">
+        <div class="chart">In-Patient</div>
+        <div class="chart">Schedule</div>
+        <div class="chart">Out-Patient</div>
+        <div class="chart">Consultancy</div>
+    </div>
+
+
 </div>
 
 </body>
